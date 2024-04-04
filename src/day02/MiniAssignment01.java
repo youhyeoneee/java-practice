@@ -1,6 +1,6 @@
 package day02;
 
-public class Assignment01 {
+public class MiniAssignment01 {
     public static void main(String[] args) {
         Store store = new Store(2);
 
